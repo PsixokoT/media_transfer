@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    media_transfer (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cli-ui (1.5.1)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  cli-ui
+  media_transfer!
+
+BUNDLED WITH
+   2.3.7
