@@ -1,5 +1,3 @@
-require 'media_transfer/version'
-
 module MediaTransfer
   require 'media_transfer/configuration'
   require 'media_transfer/copy_files'
